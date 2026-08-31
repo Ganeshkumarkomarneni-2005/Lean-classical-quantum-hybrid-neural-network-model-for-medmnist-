@@ -57,18 +57,20 @@ The model is designed to be computationally lightweight and suitable for academi
 ### Model Results
 
 ### Fashion mnist training
-![fashion_mnist_training](fashion_mnist_training.png)
+
+![Fashion MNIST Training](fashion_mnist_training.png)
 
 ### Fashion confusion matrix
 
-![fashion confusion matrix](fashion_confusionmatrix.png)
-
+![Fashion Confusion Matrix](fashion_confusion_matrix.png)
 
 ### Fashion Gradcam
 
-![Fashion Gradcam](fashion_gradcam1.png)
-![Fashion Gradcam](fashion_gradcam2.png)
-![Fashion Gradcam](fashion_gradcam3.png)
+![Fashion GradCAM](fashion_gradcam1.png)
+
+![Fashion GradCAM](fashion_gradcam2.png)
+
+![Fashion GradCAM](fashion_gradcam3.png)
 
 
 ###  Mnist training
