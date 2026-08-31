@@ -61,7 +61,7 @@ The model is designed to be computationally lightweight and suitable for academi
 
 ### Fashion confusion matrix
 
-![Fashion confusion matrix](fashion_confusion matrix.png)
+![fashion confusion matrix](fashion_confusionmatrix.png)
 
 
 ### Fashion Gradcam
