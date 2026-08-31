@@ -29,6 +29,9 @@ The model is designed to be computationally lightweight and suitable for academi
 4. Quantum feature mapping  
 5. Quantum kernel-based classification  
 6. Model evaluation and comparison  
+### methodology
+
+![methodlogy](methodlogy.png)
 ---
 ## 🛠️ Technologies Used
 - Python 3
@@ -49,11 +52,46 @@ The model is designed to be computationally lightweight and suitable for academi
 ## 📊 Results
 - Hybrid models show competitive accuracy with fewer samples  
 - Quantum kernels improve class separability  
-- LCQHNN balances efficiency and performance  
+- LCQHNN balances efficiency and performance
+
+### Model Results
+
+### Fashion mnist training
+![fashion_mnist_training](fashion_mnist_training.png)
+
+### Fashion confusion matrix
+
+![Fashion confusion matrix](fashion_confusionmatrix.png)
+
+### Fashion Roc curves
+![fashion roc curves](fashion roc curves.png)
+### Fashion Gradcam
+
+![Fashion Gradcam](fashion_gradcam1.png)
+![Fashion Gradcam](fashion_gradcam2.png)
+![Fashion Gradcam](fashion_gradcam3.png)
+
+
+###  Mnist training
+![mnist_training](mnist_training.png)
+
+### Mnist confusion matrix
+
+![mnist confusion matrix](mnist_confusionmatrix.png)
+
+### Mnist Roc curves
+![mnist roc curves](mnist roc curves.png)
+### Mnist Gradcam
+
+![mnist Gradcam](mnist_gradcam1.png)
+![mnist Gradcam](mnist_gradcam2.png)
+![mnist Gradcam](mnist_gradcam3.png)
+   
+
 ---
 ## 📁 Project Structure
 ```
-├── Lean classical-quantum hybrid neural network model for medmnist.ipynb 
+├── LCQHNN_MNIST_FASHION_FINAL_COLAB.ipynb, LCQHNN_multiclass_for_mnist_final.ipynb
 ├── README.md
 ```
 ---
