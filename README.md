@@ -60,9 +60,6 @@ The model is designed to be computationally lightweight and suitable for academi
 
 ![Fashion MNIST Training](fashion_mnist_training.png)
 
-### Fashion confusion matrix
-
-![Fashion Confusion Matrix](fashion_confusion_matrix.png)
 
 ### Fashion Gradcam
 
