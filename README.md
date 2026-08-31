@@ -61,10 +61,9 @@ The model is designed to be computationally lightweight and suitable for academi
 
 ### Fashion confusion matrix
 
-![Fashion confusion matrix](fashion_confusionmatrix.png)
+![Fashion confusion matrix](fashion_confusion matrix.png)
 
-### Fashion Roc curves
-![fashion roc curves](fashion roc curves.png)
+
 ### Fashion Gradcam
 
 ![Fashion Gradcam](fashion_gradcam1.png)
@@ -79,8 +78,7 @@ The model is designed to be computationally lightweight and suitable for academi
 
 ![mnist confusion matrix](mnist_confusionmatrix.png)
 
-### Mnist Roc curves
-![mnist roc curves](mnist roc curves.png)
+
 ### Mnist Gradcam
 
 ![mnist Gradcam](mnist_gradcam1.png)
